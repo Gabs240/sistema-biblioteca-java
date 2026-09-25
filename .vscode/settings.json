@@ -1,0 +1,16 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cSpell.words": [
+        "autor",
+        "Emprestimo",
+        "emprestimos",
+        "leitor",
+        "leitores",
+        "livro",
+        "livros"
+    ],
+    "commentTranslate.hover.enabled": true
+}
